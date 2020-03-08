@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963574369203",
+    "firebase_url": "https://standbyme-55b03.firebaseio.com",
+    "project_id": "standbyme-55b03",
+    "storage_bucket": "standbyme-55b03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963574369203:android:a205718418938cb9d059c6",
+        "android_client_info": {
+          "package_name": "com.example.standbyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963574369203-ep6q16q1n44609hhd710qfljk8iv6g85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB073YcIfclISFovz9dLv4Q80gatDlGJPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963574369203-ep6q16q1n44609hhd710qfljk8iv6g85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
